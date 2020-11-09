@@ -1,0 +1,3 @@
+C:/Users/ronza/CLionProjects/sort_analyser/cmake-build-debug/CMakeFiles/CAESAR-2D.dir
+C:/Users/ronza/CLionProjects/sort_analyser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ronza/CLionProjects/sort_analyser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
